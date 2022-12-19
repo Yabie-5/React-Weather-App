@@ -7,8 +7,7 @@
 
  簡単に目標をつけると、**kerusikoをwebアプリ化できるようになりたい**
  
- 静的ページのURL: https://worldweather.e205744.repl.co/ \
- まだサーバーサイドの方は作っていないので、ひとまず代用。イメージはわかるかも？
+ 静的ページのURL: https://roaring-tulumba-513cab.netlify.app/ \
 
  # 開発環境
 
