@@ -15,3 +15,8 @@
  - node: v18.11.0
 
  - npm: 8.19.2
+
+# Author
+
+- 屋比久 猛成:
+  - e205744@ie.u-ryukyu.ac.jp
